@@ -5,6 +5,7 @@ Scanner sc =new Scanner(System.in);
 int n=sc.nextInt();
 int p=sum(n);
 System.out.println(p);
+System.out.println("hello");
 }
 public static int sum(int n){
 if(n>0){
