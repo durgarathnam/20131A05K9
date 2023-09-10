@@ -6,6 +6,7 @@ int n=sc.nextInt();
 int p=sum(n);
 System.out.println(p);
 System.out.println("hello");
+System.out.println("sum");
 }
 public static int sum(int n){
 if(n>0){
